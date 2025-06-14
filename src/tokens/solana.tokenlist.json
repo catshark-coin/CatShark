@@ -1,0 +1,9 @@
+{
+  "chainId": 101,
+  "address": "reKwTV2H3oRj5fQAat7HBZ5M7XRff6R3F9yzUrmKQNm",
+  "symbol": "PURR",
+  "name": "CatShark",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/YourUsername/catshark-token/main/logo.png",
+  "tags": ["community", "meme"]
+}
